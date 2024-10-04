@@ -48,6 +48,9 @@ Steps:
 
 # Task 8: Twitter Emoji Prediction Model
 
+The problem with this data was data imbalance, and most models presented on kaggle didn't tackle that problem.
+This would inevatbly affect the model performance, but it has to be addressed so the model is not biased to one class.
+
 ### Steps:
 
 1. **Data Import and Merging**:
